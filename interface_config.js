@@ -180,7 +180,7 @@ var interfaceConfig = {
     /**
      * Specify mobile app scheme for opening the app from the mobile browser.
      */
-    // MOBILE_APP_SCHEME: 'org.jitsi.meet'
+    // APP_SCHEME: 'org.jitsi.meet'
 };
 
 /* eslint-enable no-unused-vars, no-var, max-len */
